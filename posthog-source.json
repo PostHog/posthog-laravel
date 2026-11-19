@@ -1,7 +1,7 @@
 {
   "repository": "PostHog/posthog-php",
-  "commit": "fe4d04e625423dc7efb585766dc56d02507bcff0",
-  "tag": "posthog-laravel-v0.5.1",
+  "commit": "966f0f57ee329377baaa62f6b2302c81e35f95e9",
+  "tag": "posthog-laravel-v0.5.2",
   "directory": "packages/laravel",
-  "version": "0.5.1"
+  "version": "0.5.2"
 }
